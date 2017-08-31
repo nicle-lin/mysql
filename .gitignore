@@ -4,4 +4,5 @@
 .idea/misc.xml
 .idea/workspace.xml
 .idea/mysql.iml
+.idea/*
 vendor/
